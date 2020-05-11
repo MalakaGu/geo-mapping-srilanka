@@ -1,0 +1,12 @@
+venv/
+.ipynb_checkpoints/
+District_map.html
+grama_niladari.html
+vcs.xml
+District_geo.json
+Divisional_geo.json
+dristrict_aditional_data.csv
+ds_aditional_data.csv
+grama_niladari_aditional_data.csv
+Grama_geo.json
+Demostration GN.ipynb
